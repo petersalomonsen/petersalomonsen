@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Peter Salomonsen
 
-<!--
-**petersalomonsen/petersalomonsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎧 Software engineer, music tech explorer, and WebAssembly pioneer.  
+I build tools that blur the line between **code and creativity**.
 
-Here are some ideas to get you started:
+## 🔭 Projects I'm known for
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎵 [**WebAssembly Music**](https://github.com/petersalomonsen/javascriptmusic) – Live-coding instruments in JavaScript and AssemblyScript, powered by physical modeling synthesis and NEAR NFTs.
+- 🧬 [**quickjs-rust-near**](https://github.com/petersalomonsen/quickjs-rust-near) – Execute dynamic JavaScript in NEAR smart contracts using QuickJS.
+- 🌐 [**wasm-git**](https://github.com/petersalomonsen/wasm-git) – Git in your browser with WebAssembly and libgit2.
+
+## 🧠 Things I work with
+
+`Rust` `AssemblyScript` `WebAssembly` `QuickJS` `NEAR Protocol`  
+`Audio DSP` `WASI` `Serverless` `Blockchain` `TypeScript`  
+
+## 🌍 Connect
+
+- [🌐 Website](https://petersalomonsen.com)
+- [🐦 Twitter/X](https://twitter.com/salomonsen_p)
+- [💼 LinkedIn](https://www.linkedin.com/in/petersalomonsen-235168/)
+- 💖 [Sponsor me](https://github.com/sponsors/petersalomonsen)
+
+---
+
+_"I use code as an instrument – for sound, systems, and the future of the web."_
