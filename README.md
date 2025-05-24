@@ -18,7 +18,7 @@ I build tools that blur the line between **code and creativity**.
 
 - [🌐 Website](https://petersalomonsen.com)
 - [🐦 Twitter/X](https://twitter.com/salomonsen_p)
-- [💼 LinkedIn](https://www.linkedin.com/in/petersalomonsen-235168/)
+- [💼 LinkedIn](https://www.linkedin.com/in/peter-salomonsen-235168/)
 - 💖 [Sponsor me](https://github.com/sponsors/petersalomonsen)
 
 ---
