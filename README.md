@@ -24,3 +24,10 @@ I build tools that blur the line between **code and creativity**.
 ---
 
 _"I use code as an instrument – for sound, systems, and the future of the web."_
+
+[<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://badge.race-of-sloths.com/petersalomonsen?theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://badge.race-of-sloths.com/petersalomonsen?theme=light">
+    <img alt="Shows profile image on the Race-of-Sloths" src="https://badge.race-of-sloths.com/petersalomonsen">
+</picture>
+](https://race-of-sloths.com/profile/petersalomonsen)
