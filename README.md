@@ -3,6 +3,10 @@
 🎧 Software engineer, music tech explorer, and WebAssembly pioneer.  
 I build tools that blur the line between **code and creativity**.
 
+## I've written a book about WebAssembly
+
+[Building and Deploying WebAssembly apps](https://www.amazon.com/Building-Deploying-WebAssembly-Apps-applications/dp/9365898471)
+
 ## 🔭 Projects I'm known for
 
 - 🎵 [**WebAssembly Music**](https://github.com/petersalomonsen/javascriptmusic) – Live-coding instruments in JavaScript and AssemblyScript, powered by physical modeling synthesis and NEAR NFTs.
